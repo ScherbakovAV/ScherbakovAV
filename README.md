@@ -4,8 +4,9 @@
 
 ### На данный момент мной изучены:
 * теоретические основы тестирования
-* практика ручного тестирования: создание чек-листов и тест-кейсов в системах управления тестирования (Testrail, qase.io), оформление баг-репортов в Atlassian Jira
+* практика ручного тестирования: работа с ТЗ, создание чек-листов и тест-кейсов в TMS (Testrail, qase.io), оформление баг-репортов в Atlassian Jira
 * применение техник тест-дизайна, написание отчётов о тестировании
+* HTTP запросы, работы с ними с помощью devtools
 * практика тестирования API (REST API в Postman, SOAP API в SOAP UI)
 * инструменты проксирования трафика (Charles Proxy, Fiddler Classic)
 * написание юнит-тестов на Junit
@@ -23,4 +24,4 @@
 * [Игра Крестики-нолики с GUI с исполняемым файлом](https://github.com/ScherbakovAV/Python_GB/tree/20144ed063cc0d48e346c5d26a6fdc02a18b6282/Seminar9/Homework9)
 * [Простой калькулятор с Телеграм ботом](https://github.com/ScherbakovAV/Python_GB/tree/20144ed063cc0d48e346c5d26a6fdc02a18b6282/Seminar10/Homework10/Calc_bot_my_functions)
 
-> *Telegram: @AnatolySc*
+> *[Telegram](https://t.me/AnatolySc "AnatolySc")*
